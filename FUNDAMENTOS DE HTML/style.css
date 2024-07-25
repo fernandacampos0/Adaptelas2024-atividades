@@ -1,0 +1,49 @@
+* {
+    font-family:"Nunito", sans-serif;
+    
+}
+.body{
+    background-color: #CAADE6;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: #610588;
+    color: white;
+    padding: 5px 20px 5px 20px;
+    margin:0;
+}
+
+a,li {
+    color: white;
+    text-decoration: 0;
+    font-size: 14px;
+}
+
+.titulo{
+    text-align: center;
+}
+.principal{
+    padding: 20px;
+    color:#610588
+}
+
+.footer{
+    padding-left:20px;
+    padding-top: 20px;
+    background-color: #610588;
+    color: white;
+}
+
+.logo{
+    margin-bottom: 100px;
+}
+
+.span{
+    text-align: center;
+    background-color: #CAADE6;
+    color:white;
+    margin-left:-20px;
+}
+
